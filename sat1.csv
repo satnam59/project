@@ -1,0 +1,15 @@
+Patient_ID,Cancer_Type,Age,Gender,Tumor_Size(cm),Stage,Survival_Status,Smoking_Status,Genetic_Mutation,Diagnosis,Image_Path
+1,Lung,65,Male,3.2,Stage II,Alive,Smoker,EGFR,,
+2,Breast,48,Female,2.1,Stage I,Alive,Non-Smoker,BRCA1,,
+3,Lung,72,Female,4.5,Stage III,Deceased,Non-Smoker,ALK,,
+4,Breast,55,Female,1.8,Stage II,Alive,Non-Smoker,BRCA2,,
+5,Lung,60,Male,5,Stage IV,Deceased,Smoker,KRAS,,
+6,Breast,39,Female,2.5,Stage III,Alive,Non-Smoker,TP53,,
+7,Lung,70,Male,3.9,Stage II,Alive,Former Smoker,EGFR,,
+8,Breast,62,Female,4,Stage IV,Deceased,Non-Smoker,BRCA2,,
+9,Lung,68,Male,4.8,Stage III,Deceased,Smoker,ALK,,
+10,Breast,45,Female,2,Stage I,Alive,Non-Smoker,BRCA1,,
+11,Skin,,,,Stage I,,,,Malignant,malignant_train.jpg
+12,Skin,,,,Stage I,,,,Benign,benign_test.jpg
+13,Blood,,,,Stage II,,,,Easinophile,easinophile.jpg
+14,Blood,,,,Stage II,,,,Erythroblast,erythroblast.jpg
